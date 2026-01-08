@@ -1,0 +1,28 @@
+
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*style header*/
+
+header{
+    background-image: url("../img/wall.png");
+    height: 20vh;
+   
+}
+
+h1 {
+    font-size: 85px;
+}
+
+/*style main*/
+
+main {
+    background-image: url("../img/cork.png");
+    height: 80vh;
+}
